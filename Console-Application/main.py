@@ -60,7 +60,7 @@ def tb_heuristic(cities_names, distance_matrix, p):
     bad_medians = []
     end_loop = False
     k = 0
-    while not end_loop:
+    while not end_loop and k < 1000:
         savings = {}
         max_val = -1
         cont_negative = 0
