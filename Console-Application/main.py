@@ -136,7 +136,7 @@ def map_generator(cluster_matrix, centroids, cities_coords):
         folium.vector_layers.Marker(
             [lat, lng],
             radius=10,
-            tooltip='Centroids: ' + str(k) + ' Lat: ' + str(lat) + ' Lng: ' + str(lng)
+            tooltip='Centroid: ' + str(k) + ' Lat: ' + str(lat) + ' Lng: ' + str(lng)
         ).add_to(map_clusters)
     return map_clusters
 
