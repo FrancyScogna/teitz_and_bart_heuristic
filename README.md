@@ -44,12 +44,16 @@ Esempio di clusters:
 
 ![Cattura2.PNG](https://i.ibb.co/zmxyGL2/Cattura2.png)
 
-In ognuna delle cartelle ci sono gli eseguibili per Windows. Per ottenere una maggior fiducia di seguito verranno postati i risultati antivirus dei due eseguibili.
+Download eseguibili per Windows:
 
-console_application.exe :
+[Console_Application_EXE.rar](https://file.io/Jr4chimYOI3N)
+
+[GUI_Application_EXE.rar](https://file.io/lK14cyjfOsL2)
+
+console_application_exe.rar :
 
 ![a2.PNG](https://i.ibb.co/9Wg6JZn/a2.png)
 
-gui-application.exe:
+gui_application_exe.rar:
 
 ![a1.PNG](https://i.ibb.co/BZbCngF/a1.png)
